@@ -4,3 +4,4 @@ git merge web-test/gh-pages --allow-unrelated-histories
 mv ./web-test/* ./
 git commit -m "Auto update website"
 git push
+pause
